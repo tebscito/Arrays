@@ -1,4 +1,4 @@
-1 Bajar codigo de:
+1 Bajar codigo de: https://github.com/tebscito/Arrays.git
 2 Ejecutar clase Main.java
 
 * Si desea probar diferentes alternativas, cambiar los elementos de los arrays param1[] y 
